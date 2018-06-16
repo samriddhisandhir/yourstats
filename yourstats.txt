@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<title style="text-align:center;">Web Application</title>
+<body>
+<h1>YOURSTATS</h1>
+
+<p>
+</h2><b>Electricity</b></h2><br>
+<a href= "https://yourstats.azurewebsites.net/Default.aspx
+">data for predicting electricity</a></p>
+<p>
+<h2><b>Computer</b></h2>
+<a href= "https://yourstats1.azurewebsites.net/Default.aspx
+">data for predicting availability of computers</a>
+</p>
+
+<p>
+<h2><b>Drinking Water</b></h2>
+<a href="https://yourstats2.azurewebsites.net/Default.aspx
+">data for predicting availability of drinking water</a>
+</p>
+
+<p>
+<h2><b>Girls Toilet</b></h2>
+<a href="https://yourstats3.azurewebsites.net/Default.aspx
+">data for predicting availability of girls toilet</a>
+</p>
+
+<p>
+<h2><b>Boys Toilet</b></h2>
+<a href="https://yourstats3.azurewebsites.net/Default.aspx
+">data for predicting availability of boys toilet</a>
+</p>
+
+</body>
+</html>
